@@ -47,3 +47,4 @@ buttonEl.addEventListener("click", () => {
         rollDice();
     }, 1000);
 })
+
